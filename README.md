@@ -1,6 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-
 <h1 align="center">Hi 👋, I'm Kanika Gaur</h1>
 <h3 align="center">A passionate Data Analyst/Data Scientist.</h3>
 
